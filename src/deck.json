@@ -1,0 +1,37 @@
+{
+  "nested": {
+    "warcraftRumble": {
+      "nested": {
+        "Army": {
+          "fields": {
+            "miniId": {
+              "id": 1,
+              "type": "int32"
+            },
+            "talentId": {
+              "id": 2,
+              "type": "int32"
+            },
+            "units": {
+              "id": 3,
+              "rule": "repeated",
+              "type": "Unit"
+            }
+          }
+        },
+        "Unit": {
+          "fields": {
+            "miniId": {
+              "id": 1,
+              "type": "int32"
+            },
+            "talentId": {
+              "id": 2,
+              "type": "int32"
+            }
+          }
+        }
+      }
+    }
+  }
+}
