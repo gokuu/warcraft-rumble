@@ -1,13 +1,13 @@
 syntax = "proto3";
 package warcraftRumble;
 
-message Armey {
-  int32 leaderId = 1;
-  int32 leaderTalentId = 2;
+message Army {
+  int32 miniId = 1;
+  optional int32 talentId = 2;
   repeated Unit units = 3;
 }
 
 message Unit {
-  int32 minid = 1;
-  int32 talentId = 2;
+  int32 miniId = 1;
+  optional int32 talentId = 2;
 }
