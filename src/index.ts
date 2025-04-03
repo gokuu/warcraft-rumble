@@ -1,3 +1,1 @@
-export function version() {
-  return "0.0.1";
-}
+export { parseLoadoutCode, generateLoadoutCode } from "./loadout";

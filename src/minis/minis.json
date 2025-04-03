@@ -1,0 +1,1404 @@
+{
+  "AngryChickens": {
+    "id": 1,
+    "name": "Angry Chickens",
+    "availableTalents": [
+      {
+        "name": "Snackrifice"
+      },
+      {
+        "name": "Walking Crate"
+      },
+      {
+        "name": "Furious Fowl"
+      }
+    ]
+  },
+  "ArcaneBlast": {
+    "id": 2,
+    "name": "Arcane Blast",
+    "availableTalents": [
+      {
+        "name": "Amplification"
+      },
+      {
+        "name": "Arcane Power"
+      },
+      {
+        "name": "Torrent"
+      }
+    ]
+  },
+  "Blizzard": {
+    "id": 3,
+    "name": "Blizzard",
+    "availableTalents": [
+      {
+        "name": "Coldsnap"
+      },
+      {
+        "name": "Icecrown"
+      },
+      {
+        "name": "Brittle Ice"
+      }
+    ]
+  },
+  "ChainLightning": {
+    "id": 4,
+    "name": "Chain Lightning",
+    "availableTalents": [
+      {
+        "name": "Brilliant Flash"
+      },
+      {
+        "name": "Storm's Reach"
+      },
+      {
+        "name": "Reverberation"
+      }
+    ]
+  },
+  "CheatDeath": {
+    "id": 5,
+    "name": "Cheat Death",
+    "availableTalents": [
+      {
+        "name": "Seal Fate"
+      },
+      {
+        "name": "Vampirism"
+      },
+      {
+        "name": "Apocalypse"
+      }
+    ]
+  },
+  "DeepBreath": {
+    "id": 6,
+    "name": "Deep Breath",
+    "availableTalents": [
+      {
+        "name": "Attunement"
+      },
+      {
+        "name": "Melting Point"
+      },
+      {
+        "name": "Double Dragon"
+      }
+    ]
+  },
+  "EarthAndMoon": {
+    "id": 7,
+    "name": "Earth And Moon",
+    "availableTalents": [
+      {
+        "name": "Moonfury"
+      },
+      {
+        "name": "Nature's Grace"
+      },
+      {
+        "name": "Balance"
+      }
+    ]
+  },
+  "Eclipse": {
+    "id": 8,
+    "name": "Eclipse",
+    "availableTalents": [
+      {
+        "name": "Solar Flare"
+      },
+      {
+        "name": "Umbral Force"
+      },
+      {
+        "name": "Celestial Focus"
+      }
+    ]
+  },
+  "Execute": {
+    "id": 9,
+    "name": "Execute",
+    "availableTalents": [
+      {
+        "name": "Blodthirsty"
+      },
+      {
+        "name": "Killing Spree"
+      },
+      {
+        "name": "Overpower"
+      }
+    ]
+  },
+  "HolyNova": {
+    "id": 10,
+    "name": "Holy Nova",
+    "availableTalents": [
+      {
+        "name": "Inner Fire"
+      },
+      {
+        "name": "Renew"
+      },
+      {
+        "name": "Amplify Magic"
+      }
+    ]
+  },
+  "LivingBomb": {
+    "id": 11,
+    "name": "Living Bomb",
+    "availableTalents": [
+      {
+        "name": "Burden Of Fate"
+      },
+      {
+        "name": "Chain Reaction"
+      },
+      {
+        "name": "Blast Radius"
+      }
+    ]
+  },
+  "Polymorph": {
+    "id": 12,
+    "name": "Polymorph",
+    "availableTalents": [
+      {
+        "name": "Golden Fleece"
+      },
+      {
+        "name": "Exploding Sheep"
+      },
+      {
+        "name": "Stable Transfiguration"
+      }
+    ]
+  },
+  "SmokeBomb": {
+    "id": 13,
+    "name": "Smoke Bomb",
+    "availableTalents": [
+      {
+        "name": "Strangers in the Night"
+      },
+      {
+        "name": "Band Of Thieves"
+      },
+      {
+        "name": "Through The Shadows"
+      }
+    ]
+  },
+  "Abomination": {
+    "id": 14,
+    "name": "Abomination",
+    "availableTalents": [
+      {
+        "name": "Noxious Presence"
+      },
+      {
+        "name": "Cannonball"
+      },
+      {
+        "name": "Fresh Meat"
+      }
+    ]
+  },
+  "AncientOfWar": {
+    "id": 15,
+    "name": "Ancient Of War",
+    "availableTalents": [
+      {
+        "name": "Sapling"
+      },
+      {
+        "name": "Behemoth"
+      },
+      {
+        "name": "Lightning Rod"
+      }
+    ]
+  },
+  "AnubArak": {
+    "id": 16,
+    "name": "Anub'Arak",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Regenerate"
+      },
+      {
+        "name": "Explosive Shells"
+      },
+      {
+        "name": "Trap Door"
+      }
+    ]
+  },
+  "Banshee": {
+    "id": 17,
+    "name": "Banshee",
+    "availableTalents": [
+      {
+        "name": "Soul Eruption"
+      },
+      {
+        "name": "Unholy Frenzy"
+      },
+      {
+        "name": "Will of the Necropolis"
+      }
+    ]
+  },
+  "BaronRivendare": {
+    "id": 18,
+    "name": "Baron Rivendare",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Death Pact"
+      },
+      {
+        "name": "Skeletal Frenzy"
+      },
+      {
+        "name": "Chill Of The Grave"
+      }
+    ]
+  },
+  "BatRider": {
+    "id": 19,
+    "name": "Bat Rider",
+    "availableTalents": [
+      {
+        "name": "Flaming Pitch"
+      },
+      {
+        "name": "Enchanted Vials"
+      },
+      {
+        "name": "Fiery Surplus"
+      }
+    ]
+  },
+  "BloodmageThalnos": {
+    "id": 20,
+    "name": "Bloodmage Thalnos",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Bane"
+      },
+      {
+        "name": "Drain Life"
+      },
+      {
+        "name": "Dominance"
+      }
+    ]
+  },
+  "BogBeast": {
+    "id": 21,
+    "name": "Bog Beast",
+    "availableTalents": [
+      {
+        "name": "Flourish"
+      },
+      {
+        "name": "Rampant Growth"
+      },
+      {
+        "name": "Living Wood"
+      }
+    ]
+  },
+  "CairneBloodhoof": {
+    "id": 22,
+    "name": "Cairne Bloodhoof",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Reincarnation"
+      },
+      {
+        "name": "Plainsrunning"
+      },
+      {
+        "name": "Aftershock"
+      }
+    ]
+  },
+  "Cenarius": {
+    "id": 23,
+    "name": "Cenarius",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Revitalize"
+      },
+      {
+        "name": "Force of Nature"
+      },
+      {
+        "name": "Wild Growth"
+      }
+    ]
+  },
+  "CharlgaRazorflank": {
+    "id": 24,
+    "name": "Charlga Razorflank",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Nature's Grasp"
+      },
+      {
+        "name": "Cavernous Mist"
+      },
+      {
+        "name": "Spirit Passage"
+      }
+    ]
+  },
+  "Chimaera": {
+    "id": 25,
+    "name": "Chimaera",
+    "availableTalents": [
+      {
+        "name": "Corrosive Breath"
+      },
+      {
+        "name": "Frost Shock"
+      },
+      {
+        "name": "Leviathan"
+      }
+    ]
+  },
+  "CoreHounds": {
+    "id": 26,
+    "name": "Core Hounds",
+    "availableTalents": [
+      {
+        "name": "Fiery Rebirth"
+      },
+      {
+        "name": "Guard Dog"
+      },
+      {
+        "name": "Eternal Bond"
+      }
+    ]
+  },
+  "DarkIronMiner": {
+    "id": 27,
+    "name": "Dark Iron Miner",
+    "availableTalents": [
+      {
+        "name": "Dark Iron Armaments"
+      },
+      {
+        "name": "Gold Mine"
+      },
+      {
+        "name": "Dwarven Ambition"
+      }
+    ]
+  },
+  "DarkspearTroll": {
+    "id": 28,
+    "name": "Darkspear Troll",
+    "availableTalents": [
+      {
+        "name": "Big Bad Voodoo"
+      },
+      {
+        "name": "Headhunting"
+      },
+      {
+        "name": "Serpent Sting"
+      }
+    ]
+  },
+  "DefiasBandits": {
+    "id": 29,
+    "name": "Defias Bandits",
+    "availableTalents": [
+      {
+        "name": "Deadly Poison"
+      },
+      {
+        "name": "Pick Lock"
+      },
+      {
+        "name": "Last Resort"
+      }
+    ]
+  },
+  "DireBatlings": {
+    "id": 30,
+    "name": "Dire Batlings",
+    "availableTalents": [
+      {
+        "name": "Midnight's Call"
+      },
+      {
+        "name": "Soundbite"
+      },
+      {
+        "name": "Guano Happens"
+      }
+    ]
+  },
+  "OrgrimDoomhammer": {
+    "id": 31,
+    "name": "Orgrim Doomhammer",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Deathless Rage"
+      },
+      {
+        "name": "Rally the Clan"
+      },
+      {
+        "name": "Conqueror's Diplomacy"
+      }
+    ]
+  },
+  "Drake": {
+    "id": 32,
+    "name": "Drake",
+    "availableTalents": [
+      {
+        "name": "Mother Drake"
+      },
+      {
+        "name": "Roost"
+      },
+      {
+        "name": "Engulfing Flames"
+      }
+    ]
+  },
+  "GeneralDrakkisath": {
+    "id": 33,
+    "name": "General Drakkisath",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Chromatic Scales"
+      },
+      {
+        "name": "Piecing Blows"
+      },
+      {
+        "name": "Lasting Legacy"
+      }
+    ]
+  },
+  "DruidOfTheClaw": {
+    "id": 34,
+    "name": "Druid Of The Claw",
+    "availableTalents": [
+      {
+        "name": "Regrowth"
+      },
+      {
+        "name": "Rejuvenation"
+      },
+      {
+        "name": "Leader of the Pack"
+      }
+    ]
+  },
+  "Dryad": {
+    "id": 35,
+    "name": "Dryad",
+    "availableTalents": [
+      {
+        "name": "Barrage"
+      },
+      {
+        "name": "Nature's Swiftness"
+      },
+      {
+        "name": "Thorns"
+      }
+    ]
+  },
+  "EarthElemental": {
+    "id": 36,
+    "name": "Earth Elemental",
+    "availableTalents": [
+      {
+        "name": "Ready to Rumble"
+      },
+      {
+        "name": "Shrapnel Blast"
+      },
+      {
+        "name": "Obsidian Shard"
+      }
+    ]
+  },
+  "EmperorThaurissan": {
+    "id": 37,
+    "name": "Emperor Thaurissan",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Moira's Wit"
+      },
+      {
+        "name": "Hubris"
+      },
+      {
+        "name": "Incinerate"
+      }
+    ]
+  },
+  "FaerieDragon": {
+    "id": 38,
+    "name": "Faerie Dragon",
+    "availableTalents": [
+      {
+        "name": "Phase Shift"
+      },
+      {
+        "name": "Invisibility"
+      },
+      {
+        "name": "Fae Blessing"
+      }
+    ]
+  },
+  "FireElemental": {
+    "id": 39,
+    "name": "Fire Elemental",
+    "availableTalents": [
+      {
+        "name": "Immolation Aura"
+      },
+      {
+        "name": "Molten Core"
+      },
+      {
+        "name": "Fan The Flames"
+      }
+    ]
+  },
+  "Firehammer": {
+    "id": 40,
+    "name": "Firehammer",
+    "availableTalents": [
+      {
+        "name": "Moultin' Metal"
+      },
+      {
+        "name": "Blazing Speed"
+      },
+      {
+        "name": "Heightened Rage"
+      }
+    ]
+  },
+  "Flamewaker": {
+    "id": 41,
+    "name": "Flamewaker",
+    "availableTalents": [
+      {
+        "name": "Heat Stroke"
+      },
+      {
+        "name": "Engulf"
+      },
+      {
+        "name": "Backdraft"
+      }
+    ]
+  },
+  "FrostwolfShaman": {
+    "id": 75,
+    "name": "Frostwolf Shaman",
+    "availableTalents": [
+      {
+        "name": "Earthwall Totem"
+      },
+      {
+        "name": "Lightning Mastery"
+      },
+      {
+        "name": "Earth Shield"
+      }
+    ]
+  },
+  "GnollBrute": {
+    "id": 45,
+    "name": "Gnoll Brute",
+    "availableTalents": [
+      {
+        "name": "Rabid"
+      },
+      {
+        "name": "Pillage"
+      },
+      {
+        "name": "Thick Hide"
+      }
+    ]
+  },
+  "GrommashHellscream": {
+    "id": 48,
+    "name": "Grommash Hellscream",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Bladestorm"
+      },
+      {
+        "name": "Mirror Image"
+      },
+      {
+        "name": "Savage Strikes"
+      }
+    ]
+  },
+  "Harpies": {
+    "id": 50,
+    "name": "Harpies",
+    "availableTalents": [
+      {
+        "name": "Infectious Swipes"
+      },
+      {
+        "name": "Trinket Collectors"
+      },
+      {
+        "name": "Talon Dive"
+      }
+    ]
+  },
+  "Footmen": {
+    "id": 42,
+    "name": "Footmen",
+    "availableTalents": [
+      {
+        "name": "Shield Bash"
+      },
+      {
+        "name": "Fortification"
+      },
+      {
+        "name": "Last Stand"
+      }
+    ]
+  },
+  "Gargoyle": {
+    "id": 43,
+    "name": "Gargoyle",
+    "availableTalents": [
+      {
+        "name": "Wing Buffet"
+      },
+      {
+        "name": "Obsidian Statue"
+      },
+      {
+        "name": "Aerial Superiority"
+      }
+    ]
+  },
+  "Ghoul": {
+    "id": 44,
+    "name": "Ghoul",
+    "availableTalents": [
+      {
+        "name": "Taste For Blood"
+      },
+      {
+        "name": "Feeding Frenzy"
+      },
+      {
+        "name": "Unholy Frenzy"
+      }
+    ]
+  },
+  "SafePilot": {
+    "id": 46,
+    "name": "S.A.F.E. Pilot",
+    "availableTalents": [
+      {
+        "name": "Gnomish Cloaking Device"
+      },
+      {
+        "name": "Comin' In Hot!"
+      },
+      {
+        "name": "Gnomish Muttonizer"
+      }
+    ]
+  },
+  "GoblinSappers": {
+    "id": 47,
+    "name": "Goblin Sappers",
+    "availableTalents": [
+      {
+        "name": "Extra BOOM"
+      },
+      {
+        "name": "Rocket Powered Turbo Boots"
+      },
+      {
+        "name": "Crude Gunpowder"
+      }
+    ]
+  },
+  "GryphonRider": {
+    "id": 49,
+    "name": "Gryphon Rider",
+    "availableTalents": [
+      {
+        "name": "Air Drop"
+      },
+      {
+        "name": "Odyn's Fury"
+      },
+      {
+        "name": "Mighty Throw"
+      }
+    ]
+  },
+  "HarvestGolem": {
+    "id": 51,
+    "name": "Harvest Golem",
+    "availableTalents": [
+      {
+        "name": "Trojan Chickens"
+      },
+      {
+        "name": "Unstable Core"
+      },
+      {
+        "name": "Bountiful Harvest"
+      }
+    ]
+  },
+  "HeadlessHorseman": {
+    "id": 52,
+    "name": "Headless Horseman",
+    "availableTalents": [
+      {
+        "name": "Night Watch"
+      },
+      {
+        "name": "Decapitate"
+      },
+      {
+        "name": "Neigh Death Experience"
+      }
+    ]
+  },
+  "Hogger": {
+    "id": 53,
+    "name": "Hogger",
+    "availableTalents": [
+      {
+        "name": "Ham Hock"
+      },
+      {
+        "name": "Spoiled Meat"
+      },
+      {
+        "name": "Fatal Frenzy"
+      }
+    ]
+  },
+  "Huntress": {
+    "id": 54,
+    "name": "Huntress",
+    "availableTalents": [
+      {
+        "name": "Darnassian Steel"
+      },
+      {
+        "name": "Elven Might"
+      },
+      {
+        "name": "Shadowmeld"
+      }
+    ]
+  },
+  "JainaProudmoore": {
+    "id": 55,
+    "name": "Jaina Proudmoore",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Blink"
+      },
+      {
+        "name": "Clearcasting"
+      },
+      {
+        "name": "Flurry"
+      }
+    ]
+  },
+  "MaievShadowsong": {
+    "id": 56,
+    "name": "Maiev Shadowsong",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "EnvelopingShadows"
+      },
+      {
+        "name": "Shadowstep"
+      },
+      {
+        "name": "Remoseless"
+      }
+    ]
+  },
+  "MalfurionStormrage": {
+    "id": 57,
+    "name": "Malfurion Stormrage",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Natural Salve"
+      },
+      {
+        "name": "Deep Slumber"
+      },
+      {
+        "name": "Germinate"
+      }
+    ]
+  },
+  "MeatWagon": {
+    "id": 58,
+    "name": "Meatwagon",
+    "availableTalents": [
+      {
+        "name": "Meat And Bones"
+      },
+      {
+        "name": "Filet Trebuchet"
+      },
+      {
+        "name": "Greased Gears"
+      }
+    ]
+  },
+  "MoltenGiant": {
+    "id": 59,
+    "name": "Molten Giant",
+    "availableTalents": [
+      {
+        "name": "Threatening Presence"
+      },
+      {
+        "name": "Blood Of The Mountain"
+      },
+      {
+        "name": "Bolster"
+      }
+    ]
+  },
+  "Moonkin": {
+    "id": 60,
+    "name": "Moonkin",
+    "availableTalents": [
+      {
+        "name": "Vengeance"
+      },
+      {
+        "name": "Moonglow"
+      },
+      {
+        "name": "Typhoon"
+      }
+    ]
+  },
+  "Mountaineer": {
+    "id": 61,
+    "name": "Mountaineer",
+    "availableTalents": [
+      {
+        "name": "Frenzied Spirit"
+      },
+      {
+        "name": "Mend Pets"
+      },
+      {
+        "name": "Intimidation"
+      }
+    ]
+  },
+  "MurlocTidehunters": {
+    "id": 63,
+    "name": "Murloc Tidehunters",
+    "availableTalents": [
+      {
+        "name": "Safety Bubble"
+      },
+      {
+        "name": "Careful Aim"
+      },
+      {
+        "name": "Morelocs"
+      }
+    ]
+  },
+  "Necromancer": {
+    "id": 64,
+    "name": "Necromancer",
+    "availableTalents": [
+      {
+        "name": "Cult of the Damned"
+      },
+      {
+        "name": "Jeweled Skulls"
+      },
+      {
+        "name": "Breath of the Dying"
+      }
+    ]
+  },
+  "OgreMage": {
+    "id": 65,
+    "name": "Ogre Mage",
+    "availableTalents": [
+      {
+        "name": "Frostfire Bolt"
+      },
+      {
+        "name": "Ignite"
+      },
+      {
+        "name": "Avarice"
+      }
+    ]
+  },
+  "OldMurkEye": {
+    "id": 66,
+    "name": "Old Murk-Eye",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Tip of the Spear"
+      },
+      {
+        "name": "Marathon Of The Murlocs"
+      },
+      {
+        "name": "Electric Eels"
+      }
+    ]
+  },
+  "OnuAncientOfLore": {
+    "id": 67,
+    "name": "Onu, Ancient of Lore",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Barkskin"
+      },
+      {
+        "name": "Petrify"
+      },
+      {
+        "name": "From the Trees!"
+      }
+    ]
+  },
+  "PlagueFarmer": {
+    "id": 68,
+    "name": "Plague Farmer",
+    "availableTalents": [
+      {
+        "name": "Parting Gift"
+      },
+      {
+        "name": "Virulence"
+      },
+      {
+        "name": "Splashing Pumpkins"
+      }
+    ]
+  },
+  "Prowler": {
+    "id": 69,
+    "name": "Prowler",
+    "availableTalents": [
+      {
+        "name": "On The Prowl"
+      },
+      {
+        "name": "Pack Leader"
+      },
+      {
+        "name": "Predatory Instincts"
+      }
+    ]
+  },
+  "Pyromancer": {
+    "id": 70,
+    "name": "Pyromancer",
+    "availableTalents": [
+      {
+        "name": "Pyroblast"
+      },
+      {
+        "name": "Conflagrate"
+      },
+      {
+        "name": "Blaze of Glory"
+      }
+    ]
+  },
+  "Quillboar": {
+    "id": 71,
+    "name": "Quillboar",
+    "availableTalents": [
+      {
+        "name": "Bristleback"
+      },
+      {
+        "name": "Tunnel Vision"
+      },
+      {
+        "name": "Bramble Burst"
+      }
+    ]
+  },
+  "Ragnaros": {
+    "id": 72,
+    "name": "Ragnaros",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Concussive Blast"
+      },
+      {
+        "name": "Radiant Flames"
+      },
+      {
+        "name": "Sons of Flame"
+      }
+    ]
+  },
+  "Raptors": {
+    "id": 73,
+    "name": "Raptors",
+    "availableTalents": [
+      {
+        "name": "Strength In Numbers"
+      },
+      {
+        "name": "Fast Food"
+      },
+      {
+        "name": "Motivation"
+      }
+    ]
+  },
+  "RendBlackhand": {
+    "id": 74,
+    "name": "Rend Blackhand",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Flaming Soul"
+      },
+      {
+        "name": "Scale and Steel"
+      },
+      {
+        "name": "Legionnaire"
+      }
+    ]
+  },
+  "SkeletonParty": {
+    "id": 76,
+    "name": "Skeleton Party",
+    "availableTalents": [
+      {
+        "name": "5-Man"
+      },
+      {
+        "name": "Corpse Run"
+      },
+      {
+        "name": "Ritual of Rime"
+      }
+    ]
+  },
+  "Skeletons": {
+    "id": 77,
+    "name": "Skeletons",
+    "availableTalents": [
+      {
+        "name": "Questing Buddies"
+      },
+      {
+        "name": "Cackle"
+      },
+      {
+        "name": "Exhume"
+      }
+    ]
+  },
+  "Sneed": {
+    "id": 78,
+    "name": "Sneed",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Mine Is Money, Friend!"
+      },
+      {
+        "name": "Lead with Greed"
+      },
+      {
+        "name": "Land Grab"
+      }
+    ]
+  },
+  "Spiderlings": {
+    "id": 79,
+    "name": "Spiderlings",
+    "availableTalents": [
+      {
+        "name": "Bloated Carapace"
+      },
+      {
+        "name": "Cave Dwellers"
+      },
+      {
+        "name": "Envenom"
+      }
+    ]
+  },
+  "StonehoofTauren": {
+    "id": 80,
+    "name": "Stonehoof Tauren",
+    "availableTalents": [
+      {
+        "name": "Pummel"
+      },
+      {
+        "name": "Momentum"
+      },
+      {
+        "name": "Provoke"
+      }
+    ]
+  },
+  "SwoleTroll": {
+    "id": 81,
+    "name": "Swole Troll",
+    "availableTalents": [
+      {
+        "name": "Trollnado"
+      },
+      {
+        "name": "Troll Train"
+      },
+      {
+        "name": "Meatier Elbow"
+      }
+    ]
+  },
+  "SylvanasWindrunner": {
+    "id": 82,
+    "name": "Sylvanas Windrunner",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Black Arrow"
+      },
+      {
+        "name": "Mind Control"
+      },
+      {
+        "name": "Wail of the Banshee"
+      }
+    ]
+  },
+  "TirionFordring": {
+    "id": 83,
+    "name": "Tirion Fordring",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Divine Shield"
+      },
+      {
+        "name": "Consecrate"
+      },
+      {
+        "name": "By The Light"
+      }
+    ]
+  },
+  "Treant": {
+    "id": 84,
+    "name": "Treant",
+    "availableTalents": [
+      {
+        "name": "Composting"
+      },
+      {
+        "name": "Uproot"
+      },
+      {
+        "name": "Propagation"
+      }
+    ]
+  },
+  "Vultures": {
+    "id": 85,
+    "name": "Vultures",
+    "availableTalents": [
+      {
+        "name": "Tendon Rip"
+      },
+      {
+        "name": "Feeding Frenzy"
+      },
+      {
+        "name": "Migration"
+      }
+    ]
+  },
+  "WarsongGrunts": {
+    "id": 86,
+    "name": "Warsong Grunts",
+    "availableTalents": [
+      {
+        "name": "Blood Pact"
+      },
+      {
+        "name": "Guard Duty"
+      },
+      {
+        "name": "Command"
+      }
+    ]
+  },
+  "WarsongRaider": {
+    "id": 87,
+    "name": "Warsong Raider",
+    "availableTalents": [
+      {
+        "name": "Saboteur"
+      },
+      {
+        "name": "Razing Focus"
+      },
+      {
+        "name": "Sunder Armor"
+      }
+    ]
+  },
+  "WhelpEggs": {
+    "id": 88,
+    "name": "Whelp Eggs",
+    "availableTalents": [
+      {
+        "name": "Rookery"
+      },
+      {
+        "name": "Flame Burst"
+      },
+      {
+        "name": "Chromatic Plating"
+      }
+    ]
+  },
+  "WitchDoctor": {
+    "id": 89,
+    "name": "Witch Doctor",
+    "availableTalents": [
+      {
+        "name": "Alchemist"
+      },
+      {
+        "name": "Amplify Curse"
+      },
+      {
+        "name": "Spirit Ward"
+      }
+    ]
+  },
+  "Worgen": {
+    "id": 90,
+    "name": "Worgen",
+    "availableTalents": [
+      {
+        "name": "Lone Wolf"
+      },
+      {
+        "name": "Premeditation"
+      },
+      {
+        "name": "Frenzy"
+      }
+    ]
+  },
+  "YseraTheDreamer": {
+    "id": 91,
+    "name": "Ysera, The Dreamer",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "RecurringDream"
+      },
+      {
+        "name": "Corrupted Dream"
+      },
+      {
+        "name": "Shared Dream"
+      }
+    ]
+  },
+  "Priestess": {
+    "id": 93,
+    "name": "Priestess",
+    "availableTalents": [
+      {
+        "name": "Power Word: Shield"
+      },
+      {
+        "name": "Empowered Renew"
+      },
+      {
+        "name": "Spirit of Redemption"
+      }
+    ]
+  },
+  "ArthasMenethil": {
+    "id": 94,
+    "name": "Arthas Menethil",
+    "type": "leader",
+    "availableTalents": [
+      {
+        "name": "Death Grip"
+      },
+      {
+        "name": "Necrotic Plague"
+      },
+      {
+        "name": "Purgatory"
+      }
+    ]
+  }
+}
