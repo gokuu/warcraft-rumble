@@ -1,7 +1,7 @@
 {
   "name": "warcraft-rumble",
   "version": "0.1.0",
-  "description": "",
+  "description": "Helper library for Warcraft Rumble",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "type": "module",
@@ -17,9 +17,18 @@
   },
   "keywords": [
     "warcraft",
-    "rumble"
+    "rumble",
+    "blizzard",
+    "warcraft rumble",
+    "loadout",
+    "protobuf"
   ],
-  "author": "Pedro Rodrigues",
+  "bugs": {
+    "url": "https://github.com/gokuu/warcraft-rumble/issues"
+  },
+  "homepage": "https://github.com/gokuu/warcraft-rumble",
+  "repository": "git+https://github.com/gokuu/warcraft-rumble.git",
+  "author": "Pedro Rodrigues (https://github.com/gokuu)",
   "license": "MIT",
   "devDependencies": {
     "@jest/globals": "^29.7.0",
