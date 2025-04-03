@@ -44,20 +44,15 @@ jobs:
             npm publish
 
 workflows:
-  build-and-test:
-    jobs:
-      - test
-      - build:
-          requires:
-            - test
-
-  publish:
-    when: pipeline.git.branch == "main"
+  build-test-and-publish:
     jobs:
       - test
       - build:
           requires:
             - test
       - publish:
+          filters:
+            branches:
+              only: main
           requires:
             - build
