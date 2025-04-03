@@ -4,7 +4,7 @@ version: 2.1
 orbs:
   node: circleci/node@5
 jobs:
-  test:
+  test-node:
     # Install node dependencies and run tests
     executor: node/default
     steps:
@@ -14,7 +14,7 @@ jobs:
       - run:
           name: Run tests
           command: npm test --passWithNoTests
-  build:
+  build-node:
     # Build node project
     executor: node/default
     steps:
@@ -33,7 +33,7 @@ jobs:
       - store_artifacts:
           path: ~/artifacts
           destination: node-build
-  publish:
+  publish-node:
     executor: node/default
     steps:
       - checkout
@@ -46,13 +46,13 @@ jobs:
 workflows:
   build-test-and-publish:
     jobs:
-      - test
-      - build:
+      - test-node
+      - build-node:
           requires:
-            - test
-      - publish:
+            - test-node
+      - publish-node:
           filters:
             branches:
               only: main
           requires:
-            - build
+            - build-node
